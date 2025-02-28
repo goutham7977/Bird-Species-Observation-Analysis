@@ -1,1 +1,3 @@
 # Bird-Species-Observation-Analysis
+
+This project aims to analyze the distribution and diversity of bird species in forests and grasslands by examining observational data from both ecosystems. It seeks to understand how environmental factors, including vegetation type, climate, and terrain, influence bird populations and behavior. By identifying habitat preference patterns and assessing the impact of these ecosystems on bird diversity, the study will provide insights into avian ecology. The findings will contribute to habitat conservation, biodiversity management, and a better understanding of how environmental changes affect bird communities.
